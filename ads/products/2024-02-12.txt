@@ -1,0 +1,12 @@
+********************** TECH STORE **********************
+
+FECHA: 2024-02-12
+_________________________________________________________
+PRODUCTO					PRECIO
+_________________________________________________________
+iPhone 9                                          548.99
+iPhone X                                          899
+Huawei P30                                        499
+MacBook Pro                                       1749
+Microsoft Surface Laptop 4                        1499
+Samsung Galaxy Book                               1499
