@@ -19,8 +19,5 @@ npm i
 2. Clone the .env.template to .env file.
 3. Run the project:
 ```
-tsc -w
-```
-```
 npm run dev
 ```
